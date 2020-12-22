@@ -10,7 +10,7 @@ My name is Tommy Petty (No, not that Tom Petty) and I am a developer/engineering
 
 <!-- Actual text -->
 
-You can find me on on [![LinkedIn][1.2]][1].
+You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
