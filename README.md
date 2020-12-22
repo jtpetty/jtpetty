@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hello everyone 👋
 
-<!--
-**jtpetty/jtpetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tommy Petty (No, not that Tom Petty) and I am a developer/engineering manager at GitHub. I spent the first 18 years of my career building design automation tools for hardware engineers and custom silicon. Now, I am part of GitHub and excited to be part of a team building tools for all developers all over the 🌎!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Azure Repos and Azure Pipelines
+- 🌱 I’m currently learning to be a better developer/mentor/ally/human
+- 💬 Ask me about opportunities within GitHub or how to progress your career in tech
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I ❤️ to travel. When I am not working, I am most likely traveling or planning the next big trip. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Actual text -->
+
+You can find me on on [![LinkedIn][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: icons/linkedin.png
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/tommypetty/
+
