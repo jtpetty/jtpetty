@@ -2,7 +2,7 @@
 
 My name is Tommy Petty (No, not that Tom Petty) and I am a developer/engineering manager at GitHub. I spent the first 18 years of my career building design automation tools for hardware engineers and custom silicon. Now, I am part of GitHub and excited to be part of a team building tools for all developers all over the 🌎!
 
-- 🔭 I’m currently working on GitHub Repos and Releases
+- 🔭 I’m currently working on GitHub Client Apps (Mobile, Desktop & CLI)
 - 🌱 I’m currently learning to be a better developer/mentor/ally/human
 - 💬 Ask me about opportunities within GitHub or how to progress your career in tech
 - 😄 Pronouns: he/him
